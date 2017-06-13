@@ -1,3 +1,5 @@
+//Print the highest number and the output should be displayed on the eclipse console. 
+
 package asst2_1;
 
 import java.util.Scanner;
